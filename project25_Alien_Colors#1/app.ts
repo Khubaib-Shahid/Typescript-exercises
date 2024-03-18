@@ -1,0 +1,11 @@
+let alienColor : string = "green";
+
+if (alienColor === "green") {
+    console.log("you just earned 5 points");
+}
+
+alienColor = "red";
+
+if (alienColor === "green") {
+    console.log("you just earned 5 points");
+}
